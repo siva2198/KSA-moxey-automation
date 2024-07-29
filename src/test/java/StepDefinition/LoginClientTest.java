@@ -1,26 +1,31 @@
 package StepDefinition;
 
-import Controllers.BaseBrowserConfiguration;
+import ConfigurationHelper.DriverFactory.BaseBrowserConfiguration;
+import Pages.ClientPortal.DashboardPage;
+import Pages.ClientPortal.LoginPage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import org.apache.commons.compress.harmony.pack200.BandSet;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 
-public class LoginClientTest  {
-    @Given("User is able to launch the browser and navigate to URL")
+public class LoginClientTest {
+    private LoginPage loginPage = new LoginPage(BaseBrowserConfiguration.getDriver());
+
+    @Given("User is able to launch the browser and navigate to Client Portal")
     public void userIsAbleToLaunchTheBrowserAndNavigateToURL() {
-
+        BaseBrowserConfiguration.getDriver().get("https://ksa-test.moxey.ai/cards-ui/authenticate/login");
     }
 
     @When("User enters the Username and Password and OTP")
-    public void userEntersTheUsernameAndPasswordAndOTP() {
-
+    public void userEntersTheUsernameAndPasswordAndOTP() throws InterruptedException {
+        loginPage.enterUserNameAndPassword("rttransporter@moxey.ai","Moxey@123");
+        Thread.sleep(2000);
+        loginPage.enterOTP("123456");
+        Thread.sleep(2000);
     }
 
-    @Then("Dashboard should be displayed")
-    public void dashboardShouldBeDisplayed() {
-
+    @Then("Get the get the current URL")
+    public void getthegetthecurrenturl() throws InterruptedException {
+        Thread.sleep(3000);
+        System.out.println(BaseBrowserConfiguration.getDriver().getCurrentUrl());
     }
 }
