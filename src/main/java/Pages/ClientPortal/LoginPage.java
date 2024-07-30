@@ -10,7 +10,6 @@ import org.openqa.selenium.support.PageFactory;
 // page_url = https://ksa-test.moxey.ai/cards-ui/authenticate/login
 public class LoginPage {
     private WebDriver driver;
-
     public LoginPage(WebDriver driver) {
         PageFactory.initElements(driver, this);
     }

@@ -18,9 +18,9 @@ public class LoginClientTest {
     @When("User enters the Username and Password and OTP")
     public void userEntersTheUsernameAndPasswordAndOTP() throws InterruptedException {
         loginPage.enterUserNameAndPassword("rttransporter@moxey.ai","Moxey@123");
-        Thread.sleep(2000);
+        Thread.sleep(4000);
         loginPage.enterOTP("123456");
-        Thread.sleep(2000);
+        Thread.sleep(3000);
     }
 
     @Then("Get the get the current URL")
@@ -28,4 +28,5 @@ public class LoginClientTest {
         Thread.sleep(3000);
         System.out.println(BaseBrowserConfiguration.getDriver().getCurrentUrl());
     }
+
 }
