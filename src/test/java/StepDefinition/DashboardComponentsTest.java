@@ -2,13 +2,10 @@ package StepDefinition;
 
 import ConfigurationHelper.DriverFactory.BaseBrowserConfiguration;
 import Pages.ClientPortal.DashboardPage;
-import Pages.ClientPortal.LoginPage;
 import io.cucumber.java.en.Then;
-import io.cucumber.java.en.When;
-import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.testng.Assert;
 
-public class DashboardComponents {
+public class DashboardComponentsTest {
     DashboardPage dashboardPage = new DashboardPage(BaseBrowserConfiguration.getDriver());
 
     @Then("page title should be {string}")
