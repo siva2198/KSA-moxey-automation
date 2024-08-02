@@ -40,7 +40,7 @@ public class ApplicationHooks {
         if (scenario.isFailed()) {
             String screenShotName = scenario.getName().replace(" ", "_");
             byte[] sourcePath = ((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
-            scenario.attach(sourcePath,"image/png",screenShotName);
+            scenario.attach(sourcePath, "image/png", screenShotName);
         }
     }
 }

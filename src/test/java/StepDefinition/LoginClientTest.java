@@ -1,7 +1,6 @@
 package StepDefinition;
 
 import ConfigurationHelper.DriverFactory.BaseBrowserConfiguration;
-import Pages.ClientPortal.DashboardPage;
 import Pages.ClientPortal.LoginPage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -9,24 +8,21 @@ import io.cucumber.java.en.When;
 
 public class LoginClientTest {
     private LoginPage loginPage = new LoginPage(BaseBrowserConfiguration.getDriver());
+    BaseBrowserConfiguration baseBrowserConfiguration = new BaseBrowserConfiguration();
 
     @Given("User is able to launch the browser and navigate to Client Portal")
     public void userIsAbleToLaunchTheBrowserAndNavigateToURL() {
-        BaseBrowserConfiguration.getDriver().get("https://ksa-test.moxey.ai/cards-ui/authenticate/login");
+        baseBrowserConfiguration.getClientBaseURL();
     }
 
     @When("User enters the Username and Password and OTP")
-    public void userEntersTheUsernameAndPasswordAndOTP() throws InterruptedException {
+    public void userEntersTheUsernameAndPasswordAndOTP(){
         loginPage.enterUserNameAndPassword("rttransporter@moxey.ai","Moxey@123");
-        Thread.sleep(4000);
-        loginPage.enterOTP("123456");
-        Thread.sleep(3000);
+        loginPage.enterOTPAndClickVerify();
     }
 
     @Then("Get the get the current URL")
-    public void getthegetthecurrenturl() throws InterruptedException {
-        Thread.sleep(3000);
+    public void getthegetthecurrenturl() {
         System.out.println(BaseBrowserConfiguration.getDriver().getCurrentUrl());
     }
-
 }
