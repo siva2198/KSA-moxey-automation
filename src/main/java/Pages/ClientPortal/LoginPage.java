@@ -2,15 +2,20 @@ package Pages.ClientPortal;
 
 
 import ConfigurationHelper.DriverFactory.BaseBrowserConfiguration;
+import ConfigurationHelper.Utilites.WaitUtils;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 // page_url = https://ksa-test.moxey.ai/cards-ui/authenticate/login
-public class LoginPage {
+public class LoginPage extends BaseBrowserConfiguration{
     private WebDriver driver;
+    private WaitUtils waitUtils;
+
     public LoginPage(WebDriver driver) {
+        this.driver = driver;
+        this.waitUtils = new WaitUtils(driver);
         PageFactory.initElements(driver, this);
     }
 
@@ -29,19 +34,21 @@ public class LoginPage {
 
 
     public void enterUserNameAndPassword(String username, String password) {
+        waitUtils.waitUntilElementClickable(usernameTextField);
         usernameTextField.sendKeys(username);
+        waitUtils.waitUntilElementClickable(passwordTextField);
         passwordTextField.sendKeys(password);
         signInButton.click();
     }
-    public DashboardPage enterOTP(String otp) {
+
+    public DashboardPage enterOTPAndClickVerify() {
+        waitUtils.waitUntilElementVisible(enterOTP);
+        String otp = properties.getProperty("loginOTP");
         enterOTP.sendKeys(otp);
+        waitUtils.waitUntilElementClickable(verifyOTPButton);
         verifyOTPButton.click();
         return new DashboardPage(BaseBrowserConfiguration.getDriver());
     }
-
-
-
-
 }
 
 

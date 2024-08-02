@@ -1,0 +1,15 @@
+13:07:08.356 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+13:07:08.362 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+13:07:10.193 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+13:07:10.221 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+13:07:10.222 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+13:07:18.574 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+13:07:18.574 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+13:07:19.490 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+13:07:19.491 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+13:07:19.492 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+13:07:27.125 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+13:07:27.126 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+13:07:28.061 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+13:07:28.062 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+13:07:28.063 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL

@@ -8,12 +8,6 @@ import org.testng.Assert;
 public class DashboardComponentsTest {
     DashboardPage dashboardPage = new DashboardPage(BaseBrowserConfiguration.getDriver());
 
-    @Then("page title should be {string}")
-    public void pageTitleShouldBe(String expectedPageTitle) throws InterruptedException {
-        String actualPageTitle = dashboardPage.getDashboardTitle();
-        Assert.assertEquals(actualPageTitle, expectedPageTitle);
-        System.out.println("page title should be " + expectedPageTitle);
-    }
 
     @Then("get the current available prefund balance")
     public void getTheCurrentAvailablePrefundBalance() {
@@ -27,4 +21,10 @@ public class DashboardComponentsTest {
     }
 
 
+    @Then("Page title should be {string}")
+    public void pageTitleShouldBe(String expectedPageTitle) {
+        String actualPageTitle = dashboardPage.getDashboardTitle();
+        Assert.assertEquals(actualPageTitle, expectedPageTitle);
+        System.out.println("page title should be " + expectedPageTitle);
+    }
 }
