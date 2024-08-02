@@ -3,6 +3,8 @@ package ConfigurationHelper.DriverFactory;
 
 import ConfigurationHelper.Utilites.ConfigurationPropertiesReader;
 import io.github.bonigarcia.wdm.WebDriverManager;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -16,9 +18,11 @@ public class BaseBrowserConfiguration {
     public ConfigurationPropertiesReader configurationPropertiesReader;
     public  Properties properties;
     public static ThreadLocal<WebDriver> tlDriver = new ThreadLocal<>();
+    private static final Logger log = LogManager.getLogger(BaseBrowserConfiguration.class);
 
 
     public WebDriver initializeDriver(String browser) {
+        log.info("Initializing browser: " + browser);
         if (browser.equalsIgnoreCase("chrome")) {
             WebDriverManager.chromedriver().setup();
             tlDriver.set(new ChromeDriver());
@@ -42,12 +46,14 @@ public class BaseBrowserConfiguration {
     }
 
     public BaseBrowserConfiguration() {
+        log.info("BaseBrowserConfiguration initialized - properties loaded with properties file");
         configurationPropertiesReader = new ConfigurationPropertiesReader();
         properties = configurationPropertiesReader.loadProperties();
     }
 
     public void getClientBaseURL() {
         try {
+            log.info(this.getClass().getName() +"trigger client base URL");
             getDriver().get(properties.getProperty("clientBaseURL"));
         } catch (Exception e) {
             e.printStackTrace();
