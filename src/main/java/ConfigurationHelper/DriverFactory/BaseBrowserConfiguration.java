@@ -53,7 +53,7 @@ public class BaseBrowserConfiguration {
 
     public void getClientBaseURL() {
         try {
-            log.info(this.getClass().getName() +"trigger client base URL");
+            log.info("{}trigger client base URL", this.getClass().getName());
             getDriver().get(properties.getProperty("clientBaseURL"));
         } catch (Exception e) {
             e.printStackTrace();
