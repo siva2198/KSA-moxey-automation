@@ -16,7 +16,7 @@ import java.util.concurrent.TimeUnit;
 public class BaseBrowserConfiguration {
     public WebDriver driver;
     public ConfigurationPropertiesReader configurationPropertiesReader;
-    public  Properties properties;
+    public Properties properties;
     public static ThreadLocal<WebDriver> tlDriver = new ThreadLocal<>();
     private static final Logger log = LogManager.getLogger(BaseBrowserConfiguration.class);
 
@@ -56,14 +56,17 @@ public class BaseBrowserConfiguration {
             log.info("{}trigger client base URL", this.getClass().getName());
             getDriver().get(properties.getProperty("clientBaseURL"));
         } catch (Exception e) {
+            log.error(e.getMessage());
             e.printStackTrace();
         }
     }
 
     public void getAdminBaseURL() {
         try {
+            log.info("{}trigger admin base URL", this.getClass().getName());
             getDriver().get(properties.getProperty("adminBaseURL"));
         } catch (Exception e) {
+            log.error(e.getMessage());
             e.printStackTrace();
         }
     }
