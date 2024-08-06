@@ -3,6 +3,8 @@ package Pages.ClientPortal;
 
 import ConfigurationHelper.DriverFactory.BaseBrowserConfiguration;
 import ConfigurationHelper.Utilites.WaitUtils;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -12,6 +14,7 @@ import org.openqa.selenium.support.PageFactory;
 public class LoginPage extends BaseBrowserConfiguration{
     private WebDriver driver;
     private WaitUtils waitUtils;
+    private static Logger log = LogManager.getLogger(LoginPage.class);
 
     public LoginPage(WebDriver driver) {
         this.driver = driver;
@@ -34,6 +37,7 @@ public class LoginPage extends BaseBrowserConfiguration{
 
 
     public void enterUserNameAndPassword(String username, String password) {
+        log.info("Entering User Name and Password");
         waitUtils.waitUntilElementClickable(usernameTextField);
         usernameTextField.sendKeys(username);
         waitUtils.waitUntilElementClickable(passwordTextField);
@@ -42,6 +46,7 @@ public class LoginPage extends BaseBrowserConfiguration{
     }
 
     public DashboardPage enterOTPAndClickVerify() {
+        log.info("Entering OTP and Click Verify");
         waitUtils.waitUntilElementVisible(enterOTP);
         String otp = properties.getProperty("loginOTP");
         enterOTP.sendKeys(otp);

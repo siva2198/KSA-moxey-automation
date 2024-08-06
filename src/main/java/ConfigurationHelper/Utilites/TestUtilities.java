@@ -1,15 +1,49 @@
 package ConfigurationHelper.Utilites;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebElement;
 
-public class TestUtilities {
+import java.io.IOException;
 
-    public void uploadFile(WebElement locator){
-        try{
-        locator.sendKeys(System.getProperty("user.dir") +"/src/test/resources/TestData/UtilFiles/Test file.pdf");
+import static ConfigurationHelper.Utilites.SequentialNumberUtil.getNextSequentialNumber;
+
+public class TestUtilities {
+    private static final Logger log = LogManager.getLogger(TestUtilities.class);
+    private static final String sequentialNumber;
+
+    static {
+        try {
+            sequentialNumber = getNextSequentialNumber();
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
     }
-        catch(Exception e){
+
+    public void uploadFile(WebElement locator) {
+        try {
+            log.info("Uploading file");
+            locator.sendKeys(System.getProperty("user.dir") + "/src/test/resources/TestData/UtilFiles/Test file.pdf");
+        } catch (Exception e) {
+            log.error(e.getMessage());
             e.printStackTrace();
         }
+    }
+
+    public void getRequestPrefundAmount(WebElement locator) {
+        log.info("getRequestPrefundAmount");
+        locator.sendKeys("100");
+    }
+
+    public String getBankReferenceNumber(WebElement locator) {
+        return "BANK_REF_" + sequentialNumber;
+    }
+
+    public String getInternalReferenceNumber(WebElement locator) {
+        return "INTERNAL_REF_" + sequentialNumber;
+    }
+
+    public String getComments(WebElement locator) {
+        return "TESTING_" + sequentialNumber;
     }
 }

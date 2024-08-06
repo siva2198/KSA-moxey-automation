@@ -2,25 +2,25 @@ package Pages.ClientPortal;
 
 
 import ConfigurationHelper.DriverFactory.BaseBrowserConfiguration;
-import com.beust.ah.A;
-import org.openqa.selenium.By;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
-
-import java.io.IOException;
 
 import static org.openqa.selenium.support.ui.ExpectedConditions.*;
 
 /**
  * @author "Sivaraman M"
  */
-public class DashboardPage {
+public class DashboardPage extends BaseBrowserConfiguration{
+    WebDriver driver;
+    private static final Logger log = LogManager.getLogger(DashboardPage.class);
+
     public DashboardPage(WebDriver driver) {
+        this.driver = driver;
         PageFactory.initElements(driver, this);
     }
 
@@ -53,14 +53,12 @@ public class DashboardPage {
     WebElement SARText;
     @FindBy(xpath = "//div[contains(@class, 'cards_card__N6FX7')]//span[contains(@class, 'cards_card_value_text__lsxhy')]\n")
     WebElement AvailablePrefundAmountText;
-    @FindBy (xpath = "//p[normalize-space()='total drivers']")
+    @FindBy(xpath = "//p[normalize-space()='total drivers']")
     WebElement totalDriversText;
-
 
 
     public String DashboardAvailablePrefundAmount() {
         Assert.assertTrue(AvailablePrefundAmountText.isDisplayed());
-
         String availablePrefundText = AvailablePrefundText.getText().trim();
         String sarText = SARText.getText().trim();
         String availablePrefundAmountText = AvailablePrefundAmountText.getText().trim();
@@ -69,7 +67,9 @@ public class DashboardPage {
 
     public void validateDashboard() {
         Assert.assertTrue(textDashboard.isDisplayed());
+        log.info("validate dashboard page");
     }
+
 
     public String getDashboardTitle() {
         Assert.assertTrue(textDashboard.isDisplayed());
@@ -77,14 +77,15 @@ public class DashboardPage {
         return titleDashboard;
     }
 
-    public AccountsPage clickOnAccountsPage(){
-        try{
+    public AccountsPage clickOnAccountsPage() {
+        try {
             accountsPage.click();
-        }
-        catch(Exception e){
+            log.info("Clicked on accounts page");
+        } catch (Exception e) {
+            log.error(e.getMessage());
             e.printStackTrace();
         }
-        return new AccountsPage(BaseBrowserConfiguration.getDriver());
+        return new AccountsPage(driver);
     }
 }
 

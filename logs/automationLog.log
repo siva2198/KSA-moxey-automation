@@ -13,3 +13,769 @@
 13:07:28.061 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
 13:07:28.062 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
 13:07:28.063 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+12:30:04.405 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:30:04.413 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+12:30:04.413 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:30:04.414 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+12:30:17.953 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+12:30:17.954 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:30:17.986 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+12:30:17.986 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:30:17.989 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+12:30:42.731 [main] INFO  ConfigurationHelper.Utilites.WaitUtils - Waiting until element clickable...
+12:30:42.884 [main] INFO  ConfigurationHelper.Utilites.WaitUtils - Waiting until element clickable...
+12:30:43.070 [main] INFO  ConfigurationHelper.Utilites.WaitUtils - Waiting until element visible...
+12:30:45.845 [main] INFO  ConfigurationHelper.Utilites.WaitUtils - Waiting until element clickable...
+12:30:52.683 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:30:52.683 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+12:30:52.683 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:30:52.683 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+12:30:53.462 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+12:30:53.464 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:30:53.464 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+12:30:53.465 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:30:53.465 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+12:31:39.404 [main] INFO  ConfigurationHelper.Utilites.WaitUtils - Waiting until element clickable...
+12:31:39.534 [main] INFO  ConfigurationHelper.Utilites.WaitUtils - Waiting until element clickable...
+12:31:39.717 [main] INFO  ConfigurationHelper.Utilites.WaitUtils - Waiting until element visible...
+12:31:44.192 [main] INFO  ConfigurationHelper.Utilites.WaitUtils - Waiting until element clickable...
+12:31:50.609 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:31:50.610 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+12:31:50.610 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:31:50.610 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+12:31:51.371 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+12:31:51.371 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:31:51.372 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+12:31:51.372 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:31:51.372 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+12:31:58.499 [main] INFO  ConfigurationHelper.Utilites.WaitUtils - Waiting until element clickable...
+12:31:58.703 [main] INFO  ConfigurationHelper.Utilites.WaitUtils - Waiting until element clickable...
+12:31:58.904 [main] INFO  ConfigurationHelper.Utilites.WaitUtils - Waiting until element visible...
+12:32:00.927 [main] INFO  ConfigurationHelper.Utilites.WaitUtils - Waiting until element clickable...
+16:21:24.393 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:21:24.399 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:21:24.399 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:21:24.400 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+16:21:27.991 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:21:27.992 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:21:28.062 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:21:28.062 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:21:28.066 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+16:23:58.973 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:23:59.005 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:23:59.006 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:23:59.006 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+16:24:00.865 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:24:00.865 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:24:00.891 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:24:00.891 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:24:00.894 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+16:26:47.697 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:26:47.704 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:26:47.704 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:26:47.704 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+16:26:49.533 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:26:49.534 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:26:49.559 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:26:49.560 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:26:49.562 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+16:26:51.650 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+16:26:52.064 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+16:27:54.780 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:27:54.789 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:27:54.789 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:27:54.789 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+16:27:56.204 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:27:56.204 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:27:56.226 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:27:56.226 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:27:56.231 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+16:27:59.132 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+16:27:59.530 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+16:28:05.754 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:28:05.755 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:28:05.755 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:28:05.755 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+16:28:06.576 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:28:06.576 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:28:06.577 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:28:06.577 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:28:06.578 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+16:28:09.248 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+16:28:09.663 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+16:28:14.812 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:28:14.814 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:28:14.814 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:28:14.814 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+16:28:15.646 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:28:15.647 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:28:15.647 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:28:15.647 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:28:15.648 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+16:28:17.333 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+16:28:17.715 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+16:28:22.667 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:28:22.668 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:28:22.668 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:28:22.669 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+16:28:23.464 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:28:23.464 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:28:23.465 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:28:23.465 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:28:23.465 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+16:28:25.449 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+16:28:25.785 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+16:29:04.481 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:29:04.486 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:29:04.486 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:29:04.487 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+16:29:06.007 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:29:06.008 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:29:06.022 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:29:06.023 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:29:06.028 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+16:29:09.399 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+16:29:09.793 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+16:33:18.233 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:33:18.239 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:33:18.239 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:33:18.239 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+16:33:19.754 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:33:19.754 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:33:19.771 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+16:33:19.771 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+16:33:19.773 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+16:33:22.127 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+16:33:22.552 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+17:18:14.008 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:18:14.017 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:18:14.017 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:18:14.018 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+17:18:15.905 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:18:15.906 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:18:15.928 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:18:15.928 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:18:15.931 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+17:18:18.123 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+17:18:18.576 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+17:20:48.037 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:20:48.044 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:20:48.044 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:20:48.044 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+17:20:49.631 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:20:49.632 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:20:49.651 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:20:49.651 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:20:49.654 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+17:20:57.342 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+17:20:57.732 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+17:28:25.807 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:28:25.817 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:28:25.817 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:28:25.817 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+17:28:29.526 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:28:29.526 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:28:29.565 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:28:29.565 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:28:29.569 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+17:28:35.180 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+17:28:35.598 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+17:30:33.912 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:30:33.925 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:30:33.925 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:30:33.925 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+17:30:36.254 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:30:36.254 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:30:36.299 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:30:36.299 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:30:36.306 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+17:30:39.748 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+17:30:40.191 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+17:38:28.909 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:38:28.916 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:38:28.917 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:38:28.917 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+17:38:30.874 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:38:30.874 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:38:30.902 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:38:30.902 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:38:30.907 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+17:38:34.856 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+17:38:35.314 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+17:40:31.344 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:40:31.349 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:40:31.350 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:40:31.350 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+17:40:32.903 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:40:32.903 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:40:32.923 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:40:32.923 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:40:32.928 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+17:40:35.851 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+17:40:36.228 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+17:43:13.774 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:43:13.781 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:43:13.782 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:43:13.782 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+17:43:15.380 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:43:15.381 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:43:15.402 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:43:15.402 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:43:15.405 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+17:43:18.892 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+17:43:19.322 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+17:43:21.487 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:43:21.488 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:43:23.632 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:43:23.632 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:44:33.676 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:44:33.683 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:44:33.683 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:44:33.683 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+17:44:35.137 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:44:35.137 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:44:35.153 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:44:35.153 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:44:35.156 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+17:44:38.303 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+17:44:38.722 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+17:44:41.911 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:44:41.911 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:44:44.033 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:44:44.033 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:44:44.169 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:44:44.169 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:49:14.040 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:49:14.047 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:49:14.047 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:49:14.048 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+17:49:15.560 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:49:15.560 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:49:15.583 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:49:15.583 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:49:15.588 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+17:49:18.973 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+17:49:19.373 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+17:49:21.558 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:49:21.558 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:49:23.702 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:49:23.702 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:49:23.819 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:49:23.819 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:53:54.611 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:53:54.618 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:53:54.620 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:53:54.622 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+17:53:56.329 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:53:56.329 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:53:56.348 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:53:56.349 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:53:56.354 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+17:53:59.663 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+17:54:00.054 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+17:54:02.069 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:54:02.069 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:54:04.009 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:54:04.009 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:54:04.135 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:54:04.135 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:58:06.248 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:58:06.253 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:58:06.253 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:58:06.254 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+17:58:07.672 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:58:07.673 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:58:07.691 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:58:07.692 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:58:07.697 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+17:58:13.244 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+17:58:13.619 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+17:58:15.672 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:58:15.672 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:58:17.720 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:58:17.721 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:58:17.832 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:58:17.832 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:58:42.456 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:58:42.467 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:58:42.467 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:58:42.467 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+17:58:43.898 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:58:43.898 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:58:43.919 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:58:43.919 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:58:43.924 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+17:58:47.183 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+17:58:47.568 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+17:58:49.634 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:58:49.634 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:58:51.706 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:58:51.707 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:58:52.652 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:58:52.654 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:58:52.654 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:58:52.655 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+17:58:53.523 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:58:53.524 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:58:53.525 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:58:53.525 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:58:53.525 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+17:58:57.009 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+17:58:57.374 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+17:58:59.423 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:58:59.423 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:59:01.982 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:59:01.983 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:59:02.244 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:59:02.245 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:59:02.245 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:59:02.245 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+17:59:03.068 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:59:03.068 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:59:03.069 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:59:03.069 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:59:03.069 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+17:59:06.659 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+17:59:07.011 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+17:59:09.058 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:59:09.058 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:59:11.347 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:59:11.347 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:59:11.347 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:59:11.347 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+17:59:12.104 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:59:12.104 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:59:12.105 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:59:12.105 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:59:12.105 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+17:59:15.323 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+17:59:15.703 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+17:59:17.815 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:59:17.815 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:59:19.792 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:59:19.792 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+17:59:19.898 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+17:59:19.898 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:03:29.168 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:03:29.177 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:03:29.177 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:03:29.178 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+18:03:30.824 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:03:30.824 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:03:30.843 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:03:30.843 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:03:30.853 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+18:03:33.972 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+18:03:34.375 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+18:03:36.386 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:03:36.386 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:03:38.503 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:03:38.504 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:03:39.594 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:03:39.596 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:03:39.597 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:03:39.597 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+18:03:40.384 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:03:40.384 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:03:40.385 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:03:40.385 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:03:40.385 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+18:03:43.670 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+18:03:44.056 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+18:03:46.163 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:03:46.163 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:03:48.308 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:03:48.308 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:03:48.631 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:03:48.632 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:03:48.632 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:03:48.633 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+18:03:49.439 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:03:49.440 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:03:49.440 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:03:49.441 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:03:49.441 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+18:03:52.936 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+18:03:53.308 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+18:03:55.389 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:03:55.389 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:03:57.701 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:03:57.702 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:03:57.702 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:03:57.702 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+18:03:58.503 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:03:58.504 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:03:58.504 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:03:58.504 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:03:58.505 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+18:04:02.125 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+18:04:02.495 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+18:04:04.569 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:04:04.570 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:04:06.537 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:04:06.537 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:04:06.651 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:04:06.651 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:04:07.503 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - Uploading file
+18:35:47.498 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:35:47.505 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:35:47.505 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:35:47.505 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+18:35:49.632 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:35:49.632 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:35:49.659 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:35:49.659 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:35:49.662 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+18:35:53.380 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+18:35:53.883 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+18:35:55.946 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:35:55.946 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:35:57.887 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:35:57.887 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:35:58.016 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:35:58.016 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:35:58.145 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - getRequestPrefundAmount
+18:35:58.393 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - Uploading file
+18:37:14.779 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:37:14.784 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:37:14.785 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:37:14.785 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+18:37:17.044 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:37:17.045 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:37:17.065 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:37:17.066 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:37:17.069 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+18:37:20.264 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+18:37:20.670 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+18:37:22.692 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:37:22.692 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:37:24.715 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:37:24.716 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:37:24.838 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:37:24.838 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:37:25.211 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - getRequestPrefundAmount
+18:37:25.339 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - Uploading file
+18:38:39.019 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:38:39.025 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:38:39.025 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:38:39.026 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+18:38:40.551 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:38:40.551 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:38:40.565 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:38:40.565 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:38:40.568 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+18:38:44.820 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+18:38:45.211 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+18:38:47.271 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:38:47.271 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:38:49.306 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:38:49.306 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:38:49.424 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:38:49.424 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:38:49.782 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - getRequestPrefundAmount
+18:38:50.031 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - Uploading file
+18:39:44.030 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:39:44.038 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:39:44.038 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:39:44.039 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+18:39:45.483 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:39:45.484 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:39:45.497 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:39:45.498 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:39:45.500 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+18:39:49.063 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+18:39:49.481 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+18:39:51.679 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:39:51.679 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:39:53.782 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:39:53.783 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:39:53.914 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:39:53.914 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:39:54.036 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - getRequestPrefundAmount
+18:39:54.414 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - Uploading file
+18:40:44.379 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:40:44.389 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:40:44.389 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:40:44.390 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+18:40:45.793 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:40:45.793 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:40:45.808 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:40:45.808 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:40:45.812 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+18:40:48.760 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+18:40:49.137 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+18:40:51.077 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:40:51.077 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:40:53.212 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:40:53.214 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:40:54.086 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:40:54.088 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:40:54.088 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:40:54.088 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+18:40:54.882 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:40:54.883 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:40:54.884 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:40:54.884 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:40:54.884 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+18:40:58.697 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+18:40:59.016 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+18:41:01.019 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:41:01.019 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:41:03.508 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:41:03.508 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:41:03.792 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:41:03.793 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:41:03.793 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:41:03.793 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+18:41:04.513 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:41:04.513 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:41:04.515 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:41:04.515 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:41:04.515 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+18:41:07.860 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+18:41:08.231 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+18:41:10.165 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:41:10.165 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:41:12.566 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:41:12.567 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:41:12.568 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:41:12.568 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+18:41:13.411 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:41:13.411 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:41:13.412 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:41:13.412 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:41:13.412 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+18:41:17.516 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+18:41:17.907 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+18:41:20.056 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:41:20.056 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:41:22.007 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:41:22.007 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:41:22.108 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:41:22.109 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:41:22.476 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - getRequestPrefundAmount
+18:41:22.576 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - Uploading file
+18:43:38.733 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:43:38.742 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:43:38.742 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:43:38.743 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+18:43:40.240 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:43:40.240 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:43:40.262 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:43:40.262 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:43:40.272 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+18:43:43.942 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+18:43:44.240 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+18:43:46.292 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:43:46.292 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:43:48.270 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:43:48.270 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:43:48.927 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:43:48.928 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:43:48.928 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:43:48.928 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+18:43:49.701 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:43:49.701 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:43:49.702 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:43:49.703 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:43:49.704 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+18:43:52.812 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+18:43:53.191 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+18:44:01.381 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:44:01.381 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:44:05.059 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:44:05.059 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:44:05.360 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:44:05.362 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:44:05.363 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:44:05.363 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+18:44:06.182 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:44:06.182 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:44:06.183 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:44:06.183 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:44:06.183 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+18:44:09.352 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+18:44:09.694 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+18:44:11.931 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:44:11.931 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:44:14.129 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:44:14.129 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:44:14.129 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:44:14.129 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+18:44:14.906 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:44:14.906 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:44:14.907 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:44:14.907 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:44:14.907 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+18:44:19.561 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+18:44:19.979 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+18:44:21.867 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:44:21.868 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:44:23.753 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:44:23.753 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:44:24.261 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:44:24.261 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:44:24.361 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - getRequestPrefundAmount
+18:46:00.438 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - Uploading file
+18:48:06.550 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:48:06.556 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:48:06.556 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:48:06.557 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+18:48:07.994 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:48:07.996 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:48:08.015 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:48:08.016 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:48:08.019 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+18:48:11.444 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+18:48:11.854 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+18:48:14.031 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:48:14.031 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:48:16.280 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:48:16.281 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:48:16.431 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:48:16.431 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:48:16.925 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - getRequestPrefundAmount
+18:48:17.566 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - Uploading file
+18:59:28.909 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:59:28.921 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:59:28.921 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:59:28.922 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+18:59:30.561 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:59:30.561 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:59:30.576 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:59:30.577 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:59:30.579 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+18:59:33.889 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+18:59:34.289 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+18:59:36.392 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:59:36.392 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:59:38.526 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:59:38.526 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:59:38.640 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+18:59:38.640 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+18:59:39.021 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - getRequestPrefundAmount
+18:59:39.618 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - Uploading file
+19:12:14.640 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+19:12:14.646 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+19:12:14.646 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+19:12:14.646 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+19:12:16.281 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+19:12:16.282 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+19:12:16.315 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+19:12:16.317 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+19:12:16.323 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+19:12:19.566 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+19:12:19.982 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+19:12:21.986 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+19:12:21.986 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+19:12:24.036 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+19:12:24.036 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+19:12:24.140 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+19:12:24.140 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+19:12:24.287 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - getRequestPrefundAmount
+19:12:25.070 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - Uploading file
+21:00:26.052 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:00:26.063 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+21:00:26.063 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:00:26.063 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+21:00:29.648 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+21:00:29.649 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:00:29.688 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+21:00:29.689 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:00:29.694 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+21:00:33.306 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+21:00:33.979 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+21:00:36.461 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+21:00:36.462 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:00:39.535 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+21:00:39.535 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:00:39.758 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+21:00:39.758 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:00:40.410 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - getRequestPrefundAmount
+21:00:41.325 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - Uploading file
+21:00:56.680 [main] ERROR ConfigurationHelper.Utilites.WaitUtils - Expected condition failed: waiting for invisibility of [[ChromeDriver: chrome on windows (da25ea790493cf880cb46051f7274d38)] -> xpath: //button[@type='button'][normalize-space()='request prefund']] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.89, chrome: {chromedriverVersion: 127.0.6533.88 (a2d0cb026721..., userDataDir: C:\Users\SIVARA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65299}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65299/devtoo..., se:cdpVersion: 127.0.6533.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: da25ea790493cf880cb46051f7274d38
+21:06:14.094 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:06:14.106 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+21:06:14.106 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:06:14.106 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+21:06:16.182 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+21:06:16.183 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:06:16.210 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+21:06:16.210 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:06:16.217 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+21:06:17.149 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+21:06:19.193 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+21:06:21.361 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+21:06:21.362 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:06:23.705 [main] INFO  Pages.ClientPortal.DashboardPage - validate dashboard page
+21:06:23.710 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+21:06:23.710 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:06:23.766 [main] INFO  Pages.ClientPortal.DashboardPage - validate dashboard page
+21:06:24.814 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:06:24.817 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+21:06:24.817 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:06:24.818 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+21:06:25.872 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+21:06:25.873 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:06:25.875 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+21:06:25.876 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:06:25.876 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+21:06:28.227 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+21:06:28.853 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+21:06:30.960 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+21:06:30.960 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:06:33.198 [main] INFO  Pages.ClientPortal.DashboardPage - validate dashboard page
+21:06:33.200 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+21:06:33.200 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:06:33.246 [main] INFO  Pages.ClientPortal.DashboardPage - validate dashboard page
+21:06:33.795 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:06:33.797 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+21:06:33.797 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:06:33.798 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+21:06:34.855 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+21:06:34.855 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:06:34.858 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+21:06:34.858 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:06:34.858 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+21:06:37.161 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+21:06:37.859 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+21:06:40.221 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+21:06:40.221 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:06:42.315 [main] INFO  Pages.ClientPortal.DashboardPage - validate dashboard page
+21:06:42.728 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:06:42.730 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+21:06:42.730 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:06:42.730 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+21:06:43.798 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+21:06:43.799 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:06:43.799 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+21:06:43.800 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:06:43.800 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+21:06:48.456 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+21:06:49.077 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+21:06:51.559 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+21:06:51.560 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:06:53.932 [main] INFO  Pages.ClientPortal.DashboardPage - validate dashboard page
+21:06:53.935 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+21:06:53.936 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:06:54.155 [main] INFO  Pages.ClientPortal.DashboardPage - Clicked on accounts page
+21:06:54.189 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+21:06:54.191 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+21:06:54.612 [main] INFO  Pages.ClientPortal.DashboardPage - Clicked request prefund button
+21:06:55.312 [main] INFO  Pages.ClientPortal.DashboardPage - request prefund amount input[[ChromeDriver: chrome on windows (64c5c4b212bc48406cd52a6cf7dc032b)] -> xpath: //input[@id='amount']]
+21:06:55.313 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - getRequestPrefundAmount
+21:06:55.507 [main] INFO  Pages.ClientPortal.DashboardPage - request prefund bank ref no [[ChromeDriver: chrome on windows (64c5c4b212bc48406cd52a6cf7dc032b)] -> xpath: //input[@id='requestBankRefNo']]
+21:06:55.752 [main] INFO  Pages.ClientPortal.DashboardPage - request prefund internal refno [[ChromeDriver: chrome on windows (64c5c4b212bc48406cd52a6cf7dc032b)] -> xpath: //input[@id='requestinternalRefNo']]
+21:06:56.015 [main] INFO  Pages.ClientPortal.DashboardPage - request prefund comments [[ChromeDriver: chrome on windows (64c5c4b212bc48406cd52a6cf7dc032b)] -> xpath: //textarea[@id='comments']]
+21:06:56.218 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - Uploading file
+21:07:11.992 [main] ERROR ConfigurationHelper.Utilites.WaitUtils - Expected condition failed: waiting for invisibility of [[ChromeDriver: chrome on windows (64c5c4b212bc48406cd52a6cf7dc032b)] -> xpath: //button[@type='button'][normalize-space()='request prefund']] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.89, chrome: {chromedriverVersion: 127.0.6533.88 (a2d0cb026721..., userDataDir: C:\Users\SIVARA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50223}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50223/devtoo..., se:cdpVersion: 127.0.6533.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 64c5c4b212bc48406cd52a6cf7dc032b
