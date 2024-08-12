@@ -16,7 +16,7 @@ public class WaitUtils {
 
     public WaitUtils(WebDriver driver) {
         this.driver = driver;
-        this.wait = new WebDriverWait(driver, Duration.ofSeconds(15));
+        this.wait = new WebDriverWait(driver, Duration.ofSeconds(10));
     }
 
     public void waitUntilElementVisible(WebElement locator) {
@@ -25,7 +25,6 @@ public class WaitUtils {
         } catch (Exception e) {
             log.error(e.getMessage());
         }
-
     }
 
     public void waitUntilElementInVisible(WebElement locator) {
@@ -50,7 +49,6 @@ public class WaitUtils {
         } catch (Exception e) {
             log.error(e.getMessage());
         }
-
     }
 
 }

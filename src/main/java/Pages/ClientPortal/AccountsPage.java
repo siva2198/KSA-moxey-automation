@@ -20,12 +20,13 @@ public class AccountsPage extends BaseBrowserConfiguration {
     private static final Logger log = LogManager.getLogger(DashboardPage.class);
     WebDriver driver;
     WaitUtils waitUtils;
-    TestUtilities testUtilities = new TestUtilities();
+    TestUtilities testUtilities;
 
     public AccountsPage(WebDriver driver) {
         this.driver = driver;
         PageFactory.initElements(driver, this);
         this.waitUtils = new WaitUtils(driver);
+        this.testUtilities = new TestUtilities(driver);
     }
 
     @FindBy(xpath = "//button[normalize-space()='fees']")

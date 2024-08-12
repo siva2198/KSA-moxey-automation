@@ -15,7 +15,7 @@ import static org.openqa.selenium.support.ui.ExpectedConditions.*;
 /**
  * @author "Sivaraman M"
  */
-public class DashboardPage extends BaseBrowserConfiguration{
+public class DashboardPage extends BaseBrowserConfiguration {
     WebDriver driver;
     private static final Logger log = LogManager.getLogger(DashboardPage.class);
 
