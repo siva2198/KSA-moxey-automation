@@ -3,9 +3,12 @@ package StepDefinition;
 import ConfigurationHelper.DriverFactory.BaseBrowserConfiguration;
 import Pages.ClientPortal.DashboardPage;
 import Pages.ClientPortal.LoginPage;
+import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+
+import java.util.Map;
 
 public class LoginClientTest {
     private LoginPage loginPage = new LoginPage(BaseBrowserConfiguration.getDriver());
@@ -18,9 +21,9 @@ public class LoginClientTest {
     }
 
     @When("User enters the Username and Password and OTP")
-    public void userEntersTheUsernameAndPasswordAndOTP(){
-        loginPage.enterUserNameAndPassword("rttransporter@moxey.ai","Moxey@123");
-        DashboardPage dashboardPage =loginPage.enterOTPAndClickVerify();
+    public void userEntersTheUsernameAndPasswordAndOTP() {
+        loginPage.enterUserNameAndPassword("rttransporter@moxey.ai", "Moxey@123");
+        DashboardPage dashboardPage = loginPage.enterOTPAndClickVerify();
         dashboardPage.validateDashboard();
     }
 
