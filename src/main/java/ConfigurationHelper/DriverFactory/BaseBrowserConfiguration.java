@@ -1,6 +1,4 @@
 package ConfigurationHelper.DriverFactory;
-
-
 import ConfigurationHelper.Utilites.ConfigurationPropertiesReader;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.logging.log4j.LogManager;
@@ -9,7 +7,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
-
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
