@@ -7,6 +7,7 @@ import Pages.ClientPortal.LoginPage;
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.model.Report;
 import io.cucumber.datatable.DataTable;
+import io.cucumber.java.Scenario;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;

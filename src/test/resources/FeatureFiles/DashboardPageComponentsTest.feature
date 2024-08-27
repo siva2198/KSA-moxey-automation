@@ -1,5 +1,5 @@
 Feature: Validate Dashboard Components
-
+@Smoke
   Scenario: Get the available prefund amount
     Given User is able to launch the browser and navigate to Client Portal
     When User enters the Username and Password and OTP

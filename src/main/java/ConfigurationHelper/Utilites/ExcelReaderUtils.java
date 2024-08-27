@@ -13,22 +13,22 @@ import java.util.Map;
 
 public class ExcelReaderUtils {
     private static final Logger log = Logger.getLogger(ExcelReaderUtils.class);
-    private static final  String filePath = "src/test/resources/TestData/UtilFiles/ClientLoginCred.xlsx";
+    private static final String filePath = "src/test/resources/TestData/UtilFiles/ClientLoginCred.xlsx";
 
-public Map<String,String> getLoginCredential(int rowIndex) throws IOException {
-    Map<String,String> loginCredntials = new HashMap<String,String>();
-    FileInputStream file = new FileInputStream(filePath);
-    Workbook workbook = new XSSFWorkbook(file);
-    Sheet sheet = workbook.getSheetAt(0);
+    public Map<String, String> getLoginCredential(int rowIndex) throws IOException {
+        Map<String, String> loginCredentials = new HashMap<String, String>();
+        FileInputStream file = new FileInputStream(filePath);
+        Workbook workbook = new XSSFWorkbook(file);
+        Sheet sheet = workbook.getSheetAt(0);
 
-    Row row = sheet.getRow(rowIndex);
-    loginCredntials.put("username", row.getCell(0).getStringCellValue());
-    loginCredntials.put("password", row.getCell(1).getStringCellValue());
+        Row row = sheet.getRow(rowIndex);
+        loginCredentials.put("username", row.getCell(0).getStringCellValue());
+        loginCredentials.put("password", row.getCell(1).getStringCellValue());
 
-    workbook.close();
-    file.close();
+        workbook.close();
+        file.close();
 
-    return loginCredntials;
+        return loginCredentials;
 
-}
+    }
 }
