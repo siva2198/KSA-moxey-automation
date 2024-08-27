@@ -1228,3 +1228,153 @@ System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.v
 Driver info: org.openqa.selenium.chrome.ChromeDriver
 Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.90, chrome: {chromedriverVersion: 127.0.6533.99 (f31af5097d90..., userDataDir: C:\Users\SIVARA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57548}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57548/devtoo..., se:cdpVersion: 127.0.6533.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
 Session ID: e46b5ad7c00ed735da5d159ff7ca6bca
+12:47:34.160 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:47:34.195 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+12:47:34.195 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:47:34.196 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+12:47:38.768 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+12:47:38.769 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:47:38.827 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+12:47:38.828 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:47:38.831 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+12:47:43.003 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+12:47:43.415 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+12:47:45.879 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - captureToastMessage
+12:47:45.929 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - captureToastMessage
+12:47:45.957 [main] INFO  Pages.ClientPortal.LoginPage - OTP Sent Successfully!
+12:47:46.208 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+12:47:46.208 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:47:48.378 [main] INFO  Pages.ClientPortal.DashboardPage - validate dashboard page
+12:47:48.379 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+12:47:48.379 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:47:48.408 [main] INFO  Pages.ClientPortal.DashboardPage - validate dashboard page
+12:47:49.581 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:47:49.583 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+12:47:49.583 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:47:49.583 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+12:47:50.776 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+12:47:50.776 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:47:50.777 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+12:47:50.777 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:47:50.778 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+12:47:54.718 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+12:47:55.208 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+12:47:57.619 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - captureToastMessage
+12:47:57.693 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - captureToastMessage
+12:47:57.731 [main] INFO  Pages.ClientPortal.LoginPage - OTP Sent Successfully!
+12:47:57.976 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+12:47:57.976 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:47:59.965 [main] INFO  Pages.ClientPortal.DashboardPage - validate dashboard page
+12:47:59.966 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+12:47:59.966 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:47:59.998 [main] INFO  Pages.ClientPortal.DashboardPage - validate dashboard page
+12:48:00.415 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:48:00.416 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+12:48:00.416 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:48:00.416 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+12:48:01.429 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+12:48:01.429 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:48:01.431 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+12:48:01.431 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:48:01.432 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+12:48:05.481 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+12:48:06.309 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+12:48:08.909 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - captureToastMessage
+12:48:09.002 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - captureToastMessage
+12:48:09.048 [main] INFO  Pages.ClientPortal.LoginPage - OTP Sent Successfully!
+12:48:09.516 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+12:48:09.516 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:48:11.592 [main] INFO  Pages.ClientPortal.DashboardPage - validate dashboard page
+12:48:11.593 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+12:48:11.593 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:48:11.881 [main] INFO  Pages.ClientPortal.DashboardPage - Clicked on accounts page
+12:48:11.894 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+12:48:11.894 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+12:48:12.170 [main] INFO  Pages.ClientPortal.DashboardPage - Clicked request prefund button
+12:48:12.844 [main] INFO  Pages.ClientPortal.DashboardPage - request prefund amount input[[ChromeDriver: chrome on windows (7ad335d572c94b3fa35722c643c0259f)] -> xpath: //input[@id='amount']]
+12:48:12.844 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - getRequestPrefundAmount
+12:48:13.012 [main] INFO  Pages.ClientPortal.DashboardPage - request prefund bank ref no [[ChromeDriver: chrome on windows (7ad335d572c94b3fa35722c643c0259f)] -> xpath: //input[@id='requestBankRefNo']]
+12:48:13.193 [main] INFO  Pages.ClientPortal.DashboardPage - request prefund internal refno [[ChromeDriver: chrome on windows (7ad335d572c94b3fa35722c643c0259f)] -> xpath: //input[@id='requestinternalRefNo']]
+12:48:13.369 [main] INFO  Pages.ClientPortal.DashboardPage - request prefund comments [[ChromeDriver: chrome on windows (7ad335d572c94b3fa35722c643c0259f)] -> xpath: //textarea[@id='comments']]
+12:48:13.465 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - Uploading file
+12:48:23.739 [main] ERROR ConfigurationHelper.Utilites.WaitUtils - Expected condition failed: waiting for invisibility of [[ChromeDriver: chrome on windows (7ad335d572c94b3fa35722c643c0259f)] -> xpath: //button[@type='button'][normalize-space()='request prefund']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.100, chrome: {chromedriverVersion: 127.0.6533.119 (bdef6783a05..., userDataDir: C:\Users\SIVARA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59416}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59416/devtoo..., se:cdpVersion: 127.0.6533.100, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7ad335d572c94b3fa35722c643c0259f
+13:03:21.871 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+13:03:21.899 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+13:03:21.899 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+13:03:21.899 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+13:03:24.782 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+13:03:24.782 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+13:03:24.827 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+13:03:24.828 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+13:03:24.832 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+13:03:28.203 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+13:03:28.621 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+13:03:31.270 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - captureToastMessage
+13:03:31.306 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - captureToastMessage
+13:03:31.324 [main] INFO  Pages.ClientPortal.LoginPage - OTP Sent Successfully!
+13:03:31.677 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+13:03:31.677 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+13:03:34.027 [main] INFO  Pages.ClientPortal.DashboardPage - validate dashboard page
+13:03:34.028 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+13:03:34.028 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+13:03:34.050 [main] INFO  Pages.ClientPortal.DashboardPage - validate dashboard page
+13:03:35.166 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+13:03:35.169 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+13:03:35.169 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+13:03:35.170 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+13:03:36.177 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+13:03:36.177 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+13:03:36.178 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+13:03:36.179 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+13:03:36.179 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+13:03:38.275 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+13:03:38.710 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+13:03:41.140 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - captureToastMessage
+13:03:41.184 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - captureToastMessage
+13:03:41.200 [main] INFO  Pages.ClientPortal.LoginPage - OTP Sent Successfully!
+13:03:41.383 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+13:03:41.383 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+13:03:44.202 [main] INFO  Pages.ClientPortal.DashboardPage - validate dashboard page
+13:03:44.203 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+13:03:44.203 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+13:03:44.223 [main] INFO  Pages.ClientPortal.DashboardPage - validate dashboard page
+13:03:44.551 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+13:03:44.552 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+13:03:44.553 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+13:03:44.553 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Initializing browser: chrome
+13:03:45.351 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+13:03:45.351 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+13:03:45.352 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+13:03:45.352 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+13:03:45.352 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+13:03:51.175 [main] INFO  Pages.ClientPortal.LoginPage - Entering User Name and Password
+13:03:51.486 [main] INFO  Pages.ClientPortal.LoginPage - Entering OTP and Click Verify
+13:03:54.045 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - captureToastMessage
+13:03:54.091 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - captureToastMessage
+13:03:54.103 [main] INFO  Pages.ClientPortal.LoginPage - OTP Sent Successfully!
+13:03:54.292 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+13:03:54.292 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+13:03:56.359 [main] INFO  Pages.ClientPortal.DashboardPage - validate dashboard page
+13:03:56.360 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+13:03:56.360 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+13:03:56.475 [main] INFO  Pages.ClientPortal.DashboardPage - Clicked on accounts page
+13:03:56.487 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - BaseBrowserConfiguration initialized - properties loaded with properties file
+13:03:56.487 [main] INFO  ConfigurationHelper.Utilites.ConfigurationPropertiesReader - Loading configuration properties from file
+13:03:56.653 [main] INFO  Pages.ClientPortal.DashboardPage - Clicked request prefund button
+13:03:56.964 [main] INFO  Pages.ClientPortal.DashboardPage - request prefund amount input[[ChromeDriver: chrome on windows (a05d6e3fde32985fae4d331995c3a474)] -> xpath: //input[@id='amount']]
+13:03:56.964 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - getRequestPrefundAmount
+13:03:57.080 [main] INFO  Pages.ClientPortal.DashboardPage - request prefund bank ref no [[ChromeDriver: chrome on windows (a05d6e3fde32985fae4d331995c3a474)] -> xpath: //input[@id='requestBankRefNo']]
+13:03:57.161 [main] INFO  Pages.ClientPortal.DashboardPage - request prefund internal refno [[ChromeDriver: chrome on windows (a05d6e3fde32985fae4d331995c3a474)] -> xpath: //input[@id='requestinternalRefNo']]
+13:03:57.239 [main] INFO  Pages.ClientPortal.DashboardPage - request prefund comments [[ChromeDriver: chrome on windows (a05d6e3fde32985fae4d331995c3a474)] -> xpath: //textarea[@id='comments']]
+13:03:57.305 [main] INFO  ConfigurationHelper.Utilites.TestUtilities - Uploading file
+13:04:07.518 [main] ERROR ConfigurationHelper.Utilites.WaitUtils - Expected condition failed: waiting for invisibility of [[ChromeDriver: chrome on windows (a05d6e3fde32985fae4d331995c3a474)] -> xpath: //button[@type='button'][normalize-space()='request prefund']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.100, chrome: {chromedriverVersion: 127.0.6533.119 (bdef6783a05..., userDataDir: C:\Users\SIVARA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57177}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57177/devtoo..., se:cdpVersion: 127.0.6533.100, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a05d6e3fde32985fae4d331995c3a474

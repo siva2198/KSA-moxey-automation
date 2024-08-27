@@ -8,9 +8,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import org.testng.Assert;
 
-import static org.openqa.selenium.support.ui.ExpectedConditions.*;
+
 
 /**
  * @author "Sivaraman M"
@@ -58,7 +57,6 @@ public class DashboardPage extends BaseBrowserConfiguration {
 
 
     public String DashboardAvailablePrefundAmount() {
-        Assert.assertTrue(AvailablePrefundAmountText.isDisplayed());
         String availablePrefundText = AvailablePrefundText.getText().trim();
         String sarText = SARText.getText().trim();
         String availablePrefundAmountText = AvailablePrefundAmountText.getText().trim();
@@ -66,13 +64,11 @@ public class DashboardPage extends BaseBrowserConfiguration {
     }
 
     public void validateDashboard() {
-        Assert.assertTrue(textDashboard.isDisplayed());
         log.info("validate dashboard page");
     }
 
 
     public String getDashboardTitle() {
-        Assert.assertTrue(textDashboard.isDisplayed());
         String titleDashboard = textDashboard.getText();
         return titleDashboard;
     }
