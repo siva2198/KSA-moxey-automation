@@ -117,6 +117,31 @@
         </dependency>
     </dependencies>
 
+    <profiles>
+    <!-- Profile for running tests with @Smoke tag -->
+    <profile>
+        <id>smoke-tests</id>
+        <build>
+            <plugins>
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-surefire-plugin</artifactId>
+                    <version>${maven.surefire.version}</version>
+                    <configuration>
+                        <includes>
+                            <include>**/*TestRunner.java</include>
+                        </includes>
+                        <systemPropertyVariables>
+                            <cucumber.filter.tags>@Smoke</cucumber.filter.tags>
+                        </systemPropertyVariables>
+                    </configuration>
+                </plugin>
+            </plugins>
+        </build>
+    </profile>
+    </profiles>
+
+
     <build>
         <plugins>
             <plugin>
@@ -129,19 +154,22 @@
                     <target>${java.version}</target>
                 </configuration>
             </plugin>
-            <plugin>
+           <!-- <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>${maven.surefire.version}</version>
                 <configuration>
-                    <includes>
+                   <includes>
                         <include>**/*TestRunner.java</include>
                     </includes>
-                    <!-- parallel>methods</parallel>
-                    <threadCount>4</threadCount>
-                    <useUnlimitedThreads>true</useUnlimitedThreads -->
+                    <systemPropertyVariables>
+                        <cucumber.filter.tags>@Smoke</cucumber.filter.tags>
+                    </systemPropertyVariables>
+                    parallel>methods</parallel>
+                     <threadCount>4</threadCount>
+                     <useUnlimitedThreads>true</useUnlimitedThreads
                 </configuration>
-            </plugin>
+            </plugin> -->
         </plugins>
     </build>
 </project>
