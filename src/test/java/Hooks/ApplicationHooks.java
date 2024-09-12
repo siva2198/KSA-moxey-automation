@@ -17,6 +17,7 @@ public class ApplicationHooks {
     private ConfigurationPropertiesReader configurationPropertiesReader;
     Properties properties;
 
+
     @Before(order = 0)
     public void getProperty() {
         configurationPropertiesReader = new ConfigurationPropertiesReader();
@@ -43,4 +44,6 @@ public class ApplicationHooks {
             scenario.attach(sourcePath, "image/png", screenShotName);
         }
     }
+
+
 }
