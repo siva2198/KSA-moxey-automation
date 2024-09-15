@@ -19,7 +19,7 @@ public class BaseBrowserConfiguration {
 
 
     public WebDriver initializeDriver(String browser) {
-        log.info("Initializing browser: " + browser);
+        log.info("Initializing browser: {}", browser);
         if (browser.equalsIgnoreCase("chrome")) {
             WebDriverManager.chromedriver().setup();
             tlDriver.set(new ChromeDriver());
