@@ -4,13 +4,10 @@ import ConfigurationHelper.DriverFactory.BaseBrowserConfiguration;
 import ConfigurationHelper.Utilites.ExcelReaderUtils;
 import Pages.ClientPortal.DashboardPage;
 import Pages.ClientPortal.LoginPage;
-import com.aventstack.extentreports.ExtentReports;
-import com.aventstack.extentreports.model.Report;
-import io.cucumber.datatable.DataTable;
-import io.cucumber.java.Scenario;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import org.junit.Assert;
 
 import java.io.IOException;
 import java.util.Map;
@@ -19,7 +16,6 @@ public class LoginClientTest {
     private LoginPage loginPage = new LoginPage(BaseBrowserConfiguration.getDriver());
     BaseBrowserConfiguration baseBrowserConfiguration = new BaseBrowserConfiguration();
     private ExcelReaderUtils excelReaderUtils = new ExcelReaderUtils();
-
 
     @Given("User is able to launch the browser and navigate to Client Portal")
     public void userIsAbleToLaunchTheBrowserAndNavigateToURL() {
@@ -41,6 +37,7 @@ public class LoginClientTest {
         String username = credentials.get("username");
         String password = credentials.get("password");
         loginPage.enterUserNameAndPassword(username, password);
+        Assert.assertEquals("OTP Sent Successfully!",loginPage.validateToastMessage());
         DashboardPage dashboardPage = loginPage.enterOTPAndClickVerify();
         dashboardPage.validateDashboard();
     }
@@ -76,7 +73,6 @@ public class LoginClientTest {
         Map<String, String> credentials = excelReaderUtils.getLoginCredential(UserRole);
         String username = credentials.get("username");
         String password = credentials.get("password");
-
         loginPage.enterUserNameAndPassword(username, password);
         DashboardPage dashboardPage = loginPage.enterOTPAndClickVerify();
         dashboardPage.validateDashboard();

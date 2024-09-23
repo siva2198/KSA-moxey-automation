@@ -12,10 +12,10 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 // page_url = https://ksa-test.moxey.ai/cards-ui/authenticate/login
-public class LoginPage extends BaseBrowserConfiguration{
+public class LoginPage extends BaseBrowserConfiguration {
     WebDriver driver;
     WaitUtils waitUtils;
-   TestUtilities testUtilities;
+    TestUtilities testUtilities;
     private static final Logger log = LogManager.getLogger(LoginPage.class);
 
     public LoginPage(WebDriver driver) {
@@ -42,19 +42,23 @@ public class LoginPage extends BaseBrowserConfiguration{
 
 
     public void enterUserNameAndPassword(String username, String password) {
-        log.info("Entering User Name and Password");
+        log.info("Entered User Name and Password "+ username +" " +password);
         waitUtils.waitUntilElementClickable(usernameTextField);
         usernameTextField.sendKeys(username);
         waitUtils.waitUntilElementClickable(passwordTextField);
         passwordTextField.sendKeys(password);
         signInButton.click();
     }
-
+public String validateToastMessage(){
+    Boolean otpCheck =waitUtils.isToastMessageVisible(toastMessage);
+    if (otpCheck.equals(true)){
+        log.info("Message : "+ testUtilities.captureToastMessage(toastMessage));
+    }
+    String actualToastMessage = testUtilities.captureToastMessage(toastMessage);
+    return actualToastMessage;
+}
     public DashboardPage enterOTPAndClickVerify() {
         log.info("Entering OTP and Click Verify");
-        waitUtils.waitUntilElementVisible(enterOTP);
-        testUtilities.captureToastMessage(toastMessage);
-        log.info(testUtilities.captureToastMessage(toastMessage));
         String otp = properties.getProperty("loginOTP");
         enterOTP.sendKeys(otp);
         waitUtils.waitUntilElementClickable(verifyOTPButton);

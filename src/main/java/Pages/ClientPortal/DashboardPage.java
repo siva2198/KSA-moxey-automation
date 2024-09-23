@@ -2,13 +2,15 @@ package Pages.ClientPortal;
 
 
 import ConfigurationHelper.DriverFactory.BaseBrowserConfiguration;
+import ConfigurationHelper.Utilites.TestUtilities;
+import ConfigurationHelper.Utilites.WaitUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 
 /**
@@ -16,10 +18,14 @@ import org.openqa.selenium.support.PageFactory;
  */
 public class DashboardPage extends BaseBrowserConfiguration {
     WebDriver driver;
+    WaitUtils waitUtils;
+    TestUtilities testUtilities;
     private static final Logger log = LogManager.getLogger(DashboardPage.class);
 
     public DashboardPage(WebDriver driver) {
         this.driver = driver;
+        this.waitUtils = new WaitUtils(driver);
+        this.testUtilities = new TestUtilities(driver);
         PageFactory.initElements(driver, this);
     }
 
@@ -55,6 +61,10 @@ public class DashboardPage extends BaseBrowserConfiguration {
     @FindBy(xpath = "//p[normalize-space()='total drivers']")
     WebElement totalDriversText;
 
+    //toast
+    @FindBy(css = "div.Toastify__toast-body")
+    WebElement toastMessage;
+
 
     public String DashboardAvailablePrefundAmount() {
         String availablePrefundText = AvailablePrefundText.getText().trim();
@@ -69,6 +79,10 @@ public class DashboardPage extends BaseBrowserConfiguration {
 
 
     public String getDashboardTitle() {
+        Boolean checkDashboard = waitUtils.isToastMessageVisible(toastMessage);
+        if (checkDashboard.equals(true)) {
+            log.error(testUtilities.captureToastMessage(toastMessage));
+        }
         String titleDashboard = textDashboard.getText();
         return titleDashboard;
     }
@@ -82,6 +96,17 @@ public class DashboardPage extends BaseBrowserConfiguration {
             e.printStackTrace();
         }
         return new AccountsPage(driver);
+    }
+
+    public ReportsPage clickOnReportsPage() {
+        try{
+            reportsPage.click();
+            log.info("Clicked on Reports Page");
+        }catch (Exception e) {
+            log.error(e.getMessage());
+            e.printStackTrace();
+        }
+        return new ReportsPage(driver);
     }
 }
 

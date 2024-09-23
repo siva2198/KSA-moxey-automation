@@ -57,10 +57,9 @@ public class TestUtilities {
     public String captureToastMessage(WebElement locator) {
         try {
             waitUtils.waitUntilElementVisible(locator);
-            log.info("captureToastMessage");
             String toastMess = locator.getText();
             return toastMess;
-        }catch (Exception e){
+        } catch (Exception e) {
             log.error(e.getMessage());
         }
         return null;

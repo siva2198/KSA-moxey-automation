@@ -2,12 +2,16 @@ package ConfigurationHelper.Utilites;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.FluentWait;
+import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
+import java.util.function.Function;
 
 public class WaitUtils {
     private WebDriver driver;
@@ -50,5 +54,34 @@ public class WaitUtils {
             log.error(e.getMessage());
         }
     }
+
+    //Fluent wait for toast message visible
+    public boolean isToastMessageVisible(WebElement locator) {
+        try {
+            int timeOutSeconds = 8;
+            int pollingIntervalSeconds = 2;
+            FluentWait<WebDriver> fluentWait = new FluentWait<>(driver)
+                    .withTimeout(Duration.ofSeconds(timeOutSeconds))
+                    .pollingEvery(Duration.ofSeconds(pollingIntervalSeconds))
+                    .ignoring(NoSuchElementException.class);
+
+            WebElement toastElement = fluentWait.until(new Function<WebDriver, WebElement>() {
+                public WebElement apply(WebDriver driver) {
+                    WebElement  element = locator;
+                    if (element.isDisplayed()) {
+                        return element;
+                    } else {
+                        return null;
+                    }
+                }
+            });
+
+            return toastElement != null && toastElement.isDisplayed();
+        } catch (NoSuchElementException e) {
+            log.error("Toast Message was not displayed: " + e.getMessage());
+            return false;
+        }
+    }
+
 
 }
