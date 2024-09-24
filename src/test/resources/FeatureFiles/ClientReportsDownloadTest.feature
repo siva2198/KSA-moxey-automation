@@ -23,7 +23,7 @@ Feature: Download All Reports
       When User select Driver Payment requests and clicks on download button
       Then the reports should be downloaded successfully
 
-  Scenario : Client Admin able to download all the reports
+  Scenario : Head of Finance able to download all the reports
     When the Hf enter the credentials and verify the OTP
     Then User is on the dashboard Page
     And User click on Reports Page
@@ -44,7 +44,7 @@ Feature: Download All Reports
     When User select Driver Payment requests and clicks on download button
     Then the reports should be downloaded successfully
 
-  Scenario : Client Admin able to download all the reports
+  Scenario : Head of cashier able to download all the reports
     When the HC enter the credentials and verify the OTP
     Then User is on the dashboard Page
     And User click on Reports Page
@@ -64,7 +64,7 @@ Feature: Download All Reports
     When User select Driver Payment requests and clicks on download button
     Then the reports should be downloaded successfully
 
-  Scenario : Client Admin able to download all the reports
+  Scenario : Cashier able to download all the reports
     When the client admin enter the credentials and verify the OTP
     Then User is on the dashboard Page
     And User click on Reports Page

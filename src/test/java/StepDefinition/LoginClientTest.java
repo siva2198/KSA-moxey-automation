@@ -2,8 +2,11 @@ package StepDefinition;
 
 import ConfigurationHelper.DriverFactory.BaseBrowserConfiguration;
 import ConfigurationHelper.Utilites.ExcelReaderUtils;
+import ConfigurationHelper.Utilites.ExtentReportUtils;
 import Pages.ClientPortal.DashboardPage;
 import Pages.ClientPortal.LoginPage;
+import com.aventstack.extentreports.ExtentTest;
+import com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -16,6 +19,7 @@ public class LoginClientTest {
     private LoginPage loginPage = new LoginPage(BaseBrowserConfiguration.getDriver());
     BaseBrowserConfiguration baseBrowserConfiguration = new BaseBrowserConfiguration();
     private ExcelReaderUtils excelReaderUtils = new ExcelReaderUtils();
+    ExtentTest logger =ExtentReportUtils.setTestLogger(ExtentCucumberAdapter.getCurrentStep());
 
     @Given("User is able to launch the browser and navigate to Client Portal")
     public void userIsAbleToLaunchTheBrowserAndNavigateToURL() {
@@ -33,10 +37,10 @@ public class LoginClientTest {
     public void theClientAdminEnterTheCredentialsAndVerifyTheOTP() throws IOException {
         int UserRole = 1;
         Map<String, String> credentials = excelReaderUtils.getLoginCredential(UserRole);
-
         String username = credentials.get("username");
         String password = credentials.get("password");
         loginPage.enterUserNameAndPassword(username, password);
+        logger.info("Username : "+username +'\n'+ "Password : "+password);
         Assert.assertEquals("OTP Sent Successfully!",loginPage.validateToastMessage());
         DashboardPage dashboardPage = loginPage.enterOTPAndClickVerify();
         dashboardPage.validateDashboard();
@@ -49,7 +53,7 @@ public class LoginClientTest {
 
         String username = credentials.get("username");
         String password = credentials.get("password");
-
+        logger.info("Username : "+username +'\n'+ "Password : "+password);
         loginPage.enterUserNameAndPassword(username, password);
         DashboardPage dashboardPage = loginPage.enterOTPAndClickVerify();
         dashboardPage.validateDashboard();
@@ -61,7 +65,7 @@ public class LoginClientTest {
         Map<String, String> credentials = excelReaderUtils.getLoginCredential(UserRole);
         String username = credentials.get("username");
         String password = credentials.get("password");
-
+        logger.info("Username : "+username +'\n'+ "Password : "+password);
         loginPage.enterUserNameAndPassword(username, password);
         DashboardPage dashboardPage = loginPage.enterOTPAndClickVerify();
         dashboardPage.validateDashboard();
@@ -73,6 +77,7 @@ public class LoginClientTest {
         Map<String, String> credentials = excelReaderUtils.getLoginCredential(UserRole);
         String username = credentials.get("username");
         String password = credentials.get("password");
+        logger.info("Username : "+username +'\n'+ "Password : "+password);
         loginPage.enterUserNameAndPassword(username, password);
         DashboardPage dashboardPage = loginPage.enterOTPAndClickVerify();
         dashboardPage.validateDashboard();

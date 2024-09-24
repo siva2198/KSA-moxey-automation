@@ -47,59 +47,67 @@ public class ReportsPage {
         try {
             accountPayoutReportsPage.click();
             log.info("Clicked account payout report button");
-        }catch (Exception e) {
+        } catch (Exception e) {
             log.error(e.getMessage());
         }
     }
+
     public void clickPrefundReports() {
         try {
             prefundReportsPage.click();
             log.info("Clicked prefund report button");
-        }catch (Exception e) {
+        } catch (Exception e) {
             log.error(e.getMessage());
         }
     }
-    public void clickLedgerReports(){
+
+    public void clickLedgerReports() {
         try {
             ledgerReportsPage.click();
             log.info("Clicked ledger report button");
-        }catch (Exception e) {
+        } catch (Exception e) {
             log.error(e.getMessage());
         }
     }
-    public void clickB2bPaymentsReports(){
+
+    public void clickB2bPaymentsReports() {
         try {
             b2bPaymentsReportsPage.click();
             log.info("Clicked b2b payment report button");
-        }catch (Exception e) {
+        } catch (Exception e) {
             log.error(e.getMessage());
         }
     }
-    public void clickDriverPaymentRequestsReports(){
+
+    public void clickDriverPaymentRequestsReports() {
         try {
             driverPaymentRequestsReportsPage.click();
             log.info("Clicked driver payment report button");
-        }catch (Exception e) {
+        } catch (Exception e) {
             log.error(e.getMessage());
         }
     }
+
     public void clickDownloadReportButton() {
         try {
             downloadReportButton.click();
             log.info("Clicked download report button");
-        }catch (Exception e) {
+        } catch (Exception e) {
             log.error(e.getMessage());
         }
     }
 
+    //return toast is present or not
+    public boolean isToastMessageVisible() {
+        return waitUtils.isToastMessageVisible(toastMessage);
+    }
 
+    //return exception message
     public String validateToastMessage() {
-        Boolean otpCheck = waitUtils.isToastMessageVisible(toastMessage);
-        if (otpCheck.equals(true)) {
-            log.info("Message : " + testUtilities.captureToastMessage(toastMessage));
+        if (isToastMessageVisible() == true) {
+            log.info("Exception : " + testUtilities.captureToastMessage(toastMessage));
         }
         String actualToastMessage = testUtilities.captureToastMessage(toastMessage);
         return actualToastMessage;
     }
-
 }
