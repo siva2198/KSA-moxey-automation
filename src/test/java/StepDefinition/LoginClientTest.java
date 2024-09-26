@@ -50,7 +50,6 @@ public class LoginClientTest {
     public void theHfEnterTheCredentialsAndVerifyTheOTP() throws IOException {
         int UserRole = 2;
         Map<String, String> credentials = excelReaderUtils.getLoginCredential(UserRole);
-
         String username = credentials.get("username");
         String password = credentials.get("password");
         logger.info("Username : "+username +'\n'+ "Password : "+password);

@@ -58,8 +58,8 @@ public class WaitUtils {
     //Fluent wait for toast message visible
     public boolean isToastMessageVisible(WebElement locator) {
         try {
-            int timeOutSeconds = 8;
-            int pollingIntervalSeconds = 2;
+            int timeOutSeconds = 3;
+            int pollingIntervalSeconds = 1;
             FluentWait<WebDriver> fluentWait = new FluentWait<>(driver)
                     .withTimeout(Duration.ofSeconds(timeOutSeconds))
                     .pollingEvery(Duration.ofSeconds(pollingIntervalSeconds))

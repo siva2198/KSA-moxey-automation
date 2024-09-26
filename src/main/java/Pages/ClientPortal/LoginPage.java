@@ -42,21 +42,23 @@ public class LoginPage extends BaseBrowserConfiguration {
 
 
     public void enterUserNameAndPassword(String username, String password) {
-        log.info("Entered User Name and Password "+ username +" " +password);
+        log.info("Entered User Name and Password " + username + " " + password);
         waitUtils.waitUntilElementClickable(usernameTextField);
         usernameTextField.sendKeys(username);
         waitUtils.waitUntilElementClickable(passwordTextField);
         passwordTextField.sendKeys(password);
         signInButton.click();
     }
-public String validateToastMessage(){
-    Boolean otpCheck =waitUtils.isToastMessageVisible(toastMessage);
-    if (otpCheck.equals(true)){
-        log.info("Message : "+ testUtilities.captureToastMessage(toastMessage));
+
+    public String validateToastMessage() {
+        Boolean otpCheck = waitUtils.isToastMessageVisible(toastMessage);
+        if (otpCheck.equals(true)) {
+            log.info("Message : " + testUtilities.captureToastMessage(toastMessage));
+        }
+        String actualToastMessage = testUtilities.captureToastMessage(toastMessage);
+        return actualToastMessage;
     }
-    String actualToastMessage = testUtilities.captureToastMessage(toastMessage);
-    return actualToastMessage;
-}
+
     public DashboardPage enterOTPAndClickVerify() {
         log.info("Entering OTP and Click Verify");
         String otp = properties.getProperty("loginOTP");
