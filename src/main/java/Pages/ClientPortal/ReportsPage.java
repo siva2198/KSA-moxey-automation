@@ -112,6 +112,7 @@ public class ReportsPage {
 
 //return toast is present or not
     public boolean isToastMessageVisible() {
+       // waitUtils.clearToastDOM();
         return waitUtils.isToastMessageVisible(toastMessage);
     }
 

@@ -25,7 +25,7 @@ public class ClientReportsDownloadTest {
         try {
             dashboardPage.clickOnReportsPage();
             if (isToastVisible) {
-                logger.info("Message : " + reportsPage.toastMessage());
+                logger.info("Exception Thrown : " + reportsPage.toastMessage());
             }
         }catch (Exception e) {
 
@@ -37,11 +37,11 @@ public class ClientReportsDownloadTest {
         try {
             reportsPage.clickAccountPayoutReports();
             if (isToastVisible) {
-                logger.info("Message : " + reportsPage.toastMessage());
+                logger.info("Exception Thrown : " + reportsPage.toastMessage());
             }
             reportsPage.clickDownloadReportButton();
             if (isToastVisible) {
-                logger.info("Message : " + reportsPage.toastMessage());
+                logger.info("Exception Thrown : " + reportsPage.toastMessage());
             }
         }catch (Exception e) {
 
@@ -58,11 +58,11 @@ public class ClientReportsDownloadTest {
         try {
             reportsPage.clickPrefundReports();
             if (isToastVisible) {
-                logger.info("Message : " + reportsPage.toastMessage());
+                logger.info("Exception Thrown : " + reportsPage.toastMessage());
             }
             reportsPage.clickDownloadReportButton();
             if (isToastVisible) {
-                logger.info("Message : " + reportsPage.toastMessage());
+                logger.info("Exception Thrown : " + reportsPage.toastMessage());
             }
         }catch (Exception e) {
         }
@@ -78,11 +78,11 @@ public class ClientReportsDownloadTest {
         try {
             reportsPage.clickLedgerReports();
             if (isToastVisible) {
-                logger.info("Message : " + reportsPage.toastMessage());
+                logger.info("Exception Thrown : " + reportsPage.toastMessage());
             }
             reportsPage.clickDownloadReportButton();
             if (isToastVisible) {
-                logger.info("Message : " + reportsPage.toastMessage());
+                logger.info("Exception Thrown : " + reportsPage.toastMessage());
             }
         }catch (Exception e) {
         }
@@ -98,11 +98,11 @@ public class ClientReportsDownloadTest {
         try {
             reportsPage.clickDriverPaymentRequestsReports();
             if (isToastVisible) {
-                logger.info("Message : " + reportsPage.toastMessage());
+                logger.info("Exception Thrown : " + reportsPage.toastMessage());
             }
             reportsPage.clickDownloadReportButton();
             if (isToastVisible) {
-                logger.info("Message : " + reportsPage.toastMessage());
+                logger.info("Exception Thrown : " + reportsPage.toastMessage());
             }
         }catch (Exception e) {
         }
@@ -118,11 +118,11 @@ public class ClientReportsDownloadTest {
         try {
             reportsPage.clickB2bPaymentsReports();
             if (isToastVisible) {
-                logger.info("Message : " + reportsPage.toastMessage());
+                logger.info("Exception Thrown : " + reportsPage.toastMessage());
             }
             reportsPage.clickDownloadReportButton();
             if (isToastVisible) {
-                logger.info("Message : " + reportsPage.toastMessage());
+                logger.info("Exception Thrown : " + reportsPage.toastMessage());
             }
         }catch (Exception e) {
         }
